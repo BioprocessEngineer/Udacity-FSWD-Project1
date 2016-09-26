@@ -1,4 +1,6 @@
-import webbrowser import os import re # Styles and scripting for the page main_page_head = \ '''
+import webbrowser
+import os import re 
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -23,8 +25,7 @@ import webbrowser import os import re # Styles and scripting for the page main_p
       font-family: "Slabo 27px", serif;
       font-size: 150%;
       font-weight: bold;
-      line-height;
-      80%;
+      line-height: 80%;
       text-align: center;
     }
     
@@ -196,7 +197,8 @@ import webbrowser import os import re # Styles and scripting for the page main_p
       </div>
     </div>
   </div>
-
+  
+  <!-- About Me Modal -->
   <div class="modal" id="about-modal">
     <div class="modal-dialog">
       <div class="modal-content">
