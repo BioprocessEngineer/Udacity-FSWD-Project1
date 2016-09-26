@@ -3,6 +3,7 @@ import media
 import webbrowser
 import csv
 
+#intiate data types
 title = []
 story_line = []
 poster = []
@@ -11,6 +12,7 @@ year = []
 director = []
 rating = []
 
+#create movie object based on info provided in "favorite_movies.csv"
 with open('favorite_movies.csv') as f:
     mov = csv.reader(f)
     for row in mov:
@@ -29,5 +31,6 @@ movie_4 = media.Movie(title[3], story_line[3], poster[3], trailer[3], year[3], d
 movie_5 = media.Movie(title[4], story_line[4], poster[4], trailer[4], year[4], director[4], rating[4])
 movie_6 = media.Movie(title[5], story_line[5], poster[5], trailer[5], year[5], director[5], rating[5])
 
+#create movie trailer webpage based on info provided
 movies = [movie_1, movie_2, movie_3, movie_4, movie_5, movie_6]
 bioprocess_engineer.open_movies_page(movies)
