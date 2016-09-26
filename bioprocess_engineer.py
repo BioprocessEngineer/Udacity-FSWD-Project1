@@ -217,9 +217,9 @@ main_page_content = '''
           Also the excessive supply of biotech talents and limited human resource demand make the biotech career path a bit gloomy going forward. So I started to think about making a career change and the first ideas come to my mind are
           computer and design because I can still remember the joy and excitement I had when I got my first computer and spent days on OS installation, Windows Theme customization, setting up discussing board, etc.</p>
           <p>After doing a bit research, I found that the Full Stack Web Developer Nanodegree at Udaciy most interesting to me and at the same time Web Developer seems to be a more accessible (maybe I'm naive on this point) choice when
-          making such a change for myself. After all, I immediately feel the excitement again when dointg the coueses and projects in thie Nanodegree Program. I like it a lot as I find the content offered in the courses is very applicable
+          making such a change for myself. After all, I immediately feel the excitement again when doing the coueses and projects in thie Nanodegree Program. I like it a lot as I find the content offered in the courses is very applicable
           and the also the instructions provided by the lecturer are very concise and clear.</p>
-          <p>Next I am planning to finish this course in 2-3 months and trying to put down my first step in the Web by this Christmas.</p>
+          <p>Next I am planning to complete this Nanodegree in 2-3 months and trying to put down my first step in the Web by this Christmas.</p>
           <p>My Regards to the Udacity Team,</p>
           <p>Jian</p>
           </div>
