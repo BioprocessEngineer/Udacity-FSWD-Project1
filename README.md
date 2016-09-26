@@ -12,3 +12,5 @@ Python module that defines webpage content and structure and reders the webpage.
 
 load_movies.py
 Python module that runs media.py and intiate bioprocess_engineer.py to create page from movie objects.
+
+Add any movie into favorite_movies.csv and then run load_movies.pv to refresh movies in the trailer webpage.
